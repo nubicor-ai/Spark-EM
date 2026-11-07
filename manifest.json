@@ -1,0 +1,15 @@
+{
+  "name": "EM Case Arena",
+  "short_name": "EM Arena",
+  "description": "Differential + Next Best Step practice for Emergency Medicine",
+  "start_url": "/Spark-EM/",
+  "scope": "/Spark-EM/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b6e6e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
